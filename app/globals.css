@@ -1,0 +1,69 @@
+/* Основные стили для страницы */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+/* Стили для заголовков */
+h1, h2, h3 {
+  color: #00698f;
+}
+
+/* Стили для контейнера */
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+/* Стили для контейнера фотографии */
+.photo-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Стили для фотографии */
+.photo {
+  max-width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 90%;
+  margin: 10px;
+}
+
+/* Стили для ссылок */
+a {
+  text-decoration: none;
+  color: #00698f;
+}
+
+/* Стили для списков */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Стили для контактной информации */
+.contacts {
+  margin-top: 20px;
+}
+
+/* Стили для навыков */
+.skills {
+  margin-top: 20px;
+}
+
+/* Стили для опыта работы */
+.experience {
+  margin-top: 20px;
+}
